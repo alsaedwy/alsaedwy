@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello, I'm Alaa 👋
+## _([Like Aladdin](https://en.wikipedia.org/wiki/Aladdin_(name)); which is Alaa Al-Din) Just Alaa though!_
 
-<!--
-**alsaedwy/alsaedwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** with over six years of experience, currently diving deep into the world of **DevOps**. I'm part of the Source Code Management (SCM) platform team at **Fidelity Investments**, where I work on streamlining and improving code management processes.
 
-Here are some ideas to get you started:
+## 💼 Professional Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey in tech started with a strong foundation in software engineering, and over the years, I've transitioned into more specialized roles. Today, I'm passionate about **DevOps practices** and **automation**, focusing on Python automation & K8s.
+
+
+## 📘 What I'm Currently Learning/Working on
+
+I'm currently enhancing my skills in:
+- Advanced Kubernetes strategies.
+- Scalable CI/CD practices.
+- Secure infrastructure automation & container security best practices. 
+
+I'm also currently working on a Python GitHub API wrapper, utilizing OpenAPI descriptions. 
+
+
+## 🌐 On the Web
+- Hiring me? See [alaa.sh/cv](https://alaa.sh) _(it's printable)._
+- AWS Containers Blog | [Logging image scan findings from Amazon ECR in CloudWatch using an AWS Lambda function](https://aws.amazon.com/blogs/containers/logging-image-scan-findings-from-amazon-ecr-in-cloudwatch-using-an-aws-lambda-function/) by Alaa Saeed
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alsaedwy/) or drop me an email at `alsaedwy@pm.me`.
+- [alaa.sh](https://alaa.sh)
+

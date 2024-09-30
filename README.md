@@ -1,5 +1,5 @@
 # Hello, I'm Alaa 👋
-## _([Like Aladdin](https://en.wikipedia.org/wiki/Aladdin_(name)); which is Alaa Al-Din) Just Alaa though!_
+## _([Like Aladdin](https://en.wikipedia.org/wiki/Aladdin_(name)); which is Alaa Al-Din) I'm just Alaa though!_
 
 I'm a **Software Engineer** with over six years of experience, currently diving deep into the world of **DevOps**. I'm part of the Source Code Management (SCM) platform team at **Fidelity Investments**, where I work on streamlining and improving code management processes.
 

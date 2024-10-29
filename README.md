@@ -19,7 +19,7 @@ I'm also currently working on a Python GitHub API wrapper, utilizing OpenAPI des
 
 
 ## 🌐 On the Web
-- Hiring me? See [alaa.sh/cv](https://alaa.sh/cv) _(it's printable)._
+- Hiring me? See [alaa.sh/cv](https://alaa.sh/cv) _(it's printable & downloadable)._
 - AWS Containers Blog | [Logging image scan findings from Amazon ECR in CloudWatch using an AWS Lambda function](https://aws.amazon.com/blogs/containers/logging-image-scan-findings-from-amazon-ecr-in-cloudwatch-using-an-aws-lambda-function/) by Alaa Saeed
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alsaedwy/) or drop me an email at `alsaedwy@pm.me`.
 - [alaa.sh](https://alaa.sh)

@@ -5,8 +5,7 @@ I'm a **Software Engineer** with over six years of experience, currently diving 
 
 ## 💼 Professional Background
 
-My journey in tech started with a strong foundation in software engineering, and over the years, I've transitioned into more specialized roles. Today, I'm passionate about **DevOps practices** and **automation**, focusing on Python automation & K8s.
-
+My journey in tech started with a strong foundation in software engineering, and over the years, I've transitioned into more specialized roles. Today, I'm passionate about **DevOps and MLOps practices**.
 
 ## 📘 What I'm Currently Learning/Working on
 

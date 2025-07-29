@@ -7,15 +7,6 @@ I'm a **Software Engineer** with over six years of experience, currently diving 
 
 My journey in tech started with a strong foundation in software engineering, and over the years, I've transitioned into more specialized roles. Today, I'm passionate about **DevOps and MLOps practices**.
 
-## 📘 What I'm Currently Learning/Working on
-
-I'm currently enhancing my skills in:
-- Advanced Kubernetes strategies.
-- Scalable CI/CD practices.
-- Secure infrastructure automation & container security best practices. 
-
-I'm also currently working on a Python GitHub API wrapper, utilizing OpenAPI descriptions. 
-
 
 ## 🌐 On the Web
 - Hiring me? See [alaa.sh/cv](https://alaa.sh/cv) _(it's printable & downloadable)._
